@@ -11,3 +11,5 @@ pull_request_rules:
     actions:
       merge:
         method: merge
+
+# VM6_B_EDIT_CONTROL_261013 inert valid-YAML comment
