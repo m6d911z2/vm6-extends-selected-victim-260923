@@ -1,5 +1,0 @@
-# Controlled VM6 Fix-with-Mergify writer authorization fixture
-# Research-only repository; no production merge or configured product.
-pull_request_rules: []
-merge_queue:
-  mode: vm6_invalid_mode_261015
