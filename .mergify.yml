@@ -1,0 +1,2 @@
+extends:
+  - m6d911z2/mergify-transfer-boundary-vm6@main
